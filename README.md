@@ -1,6 +1,6 @@
 ![Header](./header.png)
 # 💫 About Me:
-I ❤️ learning about technology to tackle significant challenges.<br><br>I'm a Junior Front-End Dev who recently embarked on the programming journey. Every day, my passion for this field grows stronger. I dedicate myself to studying languages like Python, C++, JavaScript, Java, and PHP, alongside frameworks such as Spring. The thrill of continuous learning fuels my drive.
+I ❤️ learning about technology to tackle significant challenges.<br><br>I'm a Junior Back-End Dev who recently embarked on the programming journey. Every day, my passion for this field grows stronger. I dedicate myself to studying languages like Python, C++, JavaScript, Java, and PHP, alongside frameworks such as Spring. The thrill of continuous learning fuels my drive.
 
 
 ## 🌐 Socials:
